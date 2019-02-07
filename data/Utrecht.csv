@@ -1,0 +1,553 @@
+Periods,Region,Price
+1995,Amersfoort,107823.0
+1996,Amersfoort,117857.0
+1997,Amersfoort,129387.0
+1998,Amersfoort,143880.0
+1999,Amersfoort,166995.0
+2000,Amersfoort,198085.0
+2001,Amersfoort,217625.0
+2002,Amersfoort,224999.0
+2003,Amersfoort,223620.0
+2004,Amersfoort,233132.0
+2005,Amersfoort,240428.0
+2006,Amersfoort,249382.0
+2007,Amersfoort,258568.0
+2008,Amersfoort,274327.0
+2009,Amersfoort,255681.0
+2010,Amersfoort,269044.0
+2011,Amersfoort,261404.0
+2012,Amersfoort,245953.0
+2013,Amersfoort,233493.0
+2014,Amersfoort,243723.0
+2015,Amersfoort,240857.0
+2016,Amersfoort,262805.0
+2017,Amersfoort,296863.0
+1995,Baarn,129014.0
+1996,Baarn,149900.0
+1997,Baarn,157594.0
+1998,Baarn,172499.0
+1999,Baarn,207130.0
+2000,Baarn,273732.0
+2001,Baarn,301252.0
+2002,Baarn,314631.0
+2003,Baarn,269230.0
+2004,Baarn,307780.0
+2005,Baarn,329046.0
+2006,Baarn,354084.0
+2007,Baarn,376584.0
+2008,Baarn,352729.0
+2009,Baarn,345492.0
+2010,Baarn,339479.0
+2011,Baarn,356297.0
+2012,Baarn,308279.0
+2013,Baarn,332346.0
+2014,Baarn,321127.0
+2015,Baarn,297817.0
+2016,Baarn,348588.0
+2017,Baarn,364285.0
+1995,De Bilt,158006.0
+1996,De Bilt,162546.0
+1997,De Bilt,178588.0
+1998,De Bilt,210447.0
+1999,De Bilt,277310.0
+2000,De Bilt,325145.0
+2001,De Bilt,338232.0
+2002,De Bilt,347508.0
+2003,De Bilt,357250.0
+2004,De Bilt,364728.0
+2005,De Bilt,395246.0
+2006,De Bilt,379176.0
+2007,De Bilt,419979.0
+2008,De Bilt,436729.0
+2009,De Bilt,396846.0
+2010,De Bilt,432827.0
+2011,De Bilt,463235.0
+2012,De Bilt,401758.0
+2013,De Bilt,358334.0
+2014,De Bilt,346539.0
+2015,De Bilt,374060.0
+2016,De Bilt,384837.0
+2017,De Bilt,454080.0
+1995,Bunnik,129565.0
+1996,Bunnik,137090.0
+1997,Bunnik,149952.0
+1998,Bunnik,178716.0
+1999,Bunnik,209495.0
+2000,Bunnik,243400.0
+2001,Bunnik,247976.0
+2002,Bunnik,266721.0
+2003,Bunnik,250476.0
+2004,Bunnik,278256.0
+2005,Bunnik,270461.0
+2006,Bunnik,320244.0
+2007,Bunnik,367885.0
+2008,Bunnik,326760.0
+2009,Bunnik,349080.0
+2010,Bunnik,307349.0
+2011,Bunnik,296279.0
+2012,Bunnik,277716.0
+2013,Bunnik,296590.0
+2014,Bunnik,271316.0
+2015,Bunnik,300792.0
+2016,Bunnik,339691.0
+2017,Bunnik,354780.0
+1995,Bunschoten,98266.0
+1996,Bunschoten,99119.0
+1997,Bunschoten,118626.0
+1998,Bunschoten,136789.0
+1999,Bunschoten,145091.0
+2000,Bunschoten,179684.0
+2001,Bunschoten,226341.0
+2002,Bunschoten,224838.0
+2003,Bunschoten,218498.0
+2004,Bunschoten,229128.0
+2005,Bunschoten,248689.0
+2006,Bunschoten,268687.0
+2007,Bunschoten,280351.0
+2008,Bunschoten,274737.0
+2009,Bunschoten,252229.0
+2010,Bunschoten,263047.0
+2011,Bunschoten,252160.0
+2012,Bunschoten,241145.0
+2013,Bunschoten,205432.0
+2014,Bunschoten,220633.0
+2015,Bunschoten,248750.0
+2016,Bunschoten,251164.0
+2017,Bunschoten,274301.0
+1995,Eemnes,121550.0
+1996,Eemnes,130016.0
+1997,Eemnes,153020.0
+1998,Eemnes,154088.0
+1999,Eemnes,202044.0
+2000,Eemnes,247256.0
+2001,Eemnes,338615.0
+2002,Eemnes,313453.0
+2003,Eemnes,279170.0
+2004,Eemnes,264441.0
+2005,Eemnes,275911.0
+2006,Eemnes,352087.0
+2007,Eemnes,341957.0
+2008,Eemnes,378630.0
+2009,Eemnes,371948.0
+2010,Eemnes,293493.0
+2011,Eemnes,287124.0
+2012,Eemnes,290045.0
+2013,Eemnes,261624.0
+2014,Eemnes,317112.0
+2015,Eemnes,305333.0
+2016,Eemnes,346441.0
+2017,Eemnes,371731.0
+1995,Houten,128757.0
+1996,Houten,143854.0
+1997,Houten,145302.0
+1998,Houten,163767.0
+1999,Houten,188524.0
+2000,Houten,208864.0
+2001,Houten,244945.0
+2002,Houten,257016.0
+2003,Houten,251232.0
+2004,Houten,261971.0
+2005,Houten,276679.0
+2006,Houten,297451.0
+2007,Houten,314338.0
+2008,Houten,321049.0
+2009,Houten,297216.0
+2010,Houten,311081.0
+2011,Houten,313755.0
+2012,Houten,297209.0
+2013,Houten,258693.0
+2014,Houten,263450.0
+2015,Houten,289409.0
+2016,Houten,306475.0
+2017,Houten,350247.0
+1995,IJsselstein,104250.0
+1996,IJsselstein,114951.0
+1997,IJsselstein,139570.0
+1998,IJsselstein,135724.0
+1999,IJsselstein,186725.0
+2000,IJsselstein,197387.0
+2001,IJsselstein,199309.0
+2002,IJsselstein,205660.0
+2003,IJsselstein,240870.0
+2004,IJsselstein,230360.0
+2005,IJsselstein,238726.0
+2006,IJsselstein,248512.0
+2007,IJsselstein,262592.0
+2008,IJsselstein,273547.0
+2009,IJsselstein,273329.0
+2010,IJsselstein,282636.0
+2011,IJsselstein,271287.0
+2012,IJsselstein,261273.0
+2013,IJsselstein,237293.0
+2014,IJsselstein,255240.0
+2015,IJsselstein,255430.0
+2016,IJsselstein,267542.0
+2017,IJsselstein,287639.0
+1995,Leusden,110986.0
+1996,Leusden,129710.0
+1997,Leusden,143657.0
+1998,Leusden,170009.0
+1999,Leusden,191288.0
+2000,Leusden,226726.0
+2001,Leusden,229760.0
+2002,Leusden,243656.0
+2003,Leusden,252104.0
+2004,Leusden,249890.0
+2005,Leusden,261142.0
+2006,Leusden,285156.0
+2007,Leusden,311567.0
+2008,Leusden,319497.0
+2009,Leusden,288982.0
+2010,Leusden,284713.0
+2011,Leusden,279675.0
+2012,Leusden,275276.0
+2013,Leusden,250606.0
+2014,Leusden,260818.0
+2015,Leusden,269736.0
+2016,Leusden,285751.0
+2017,Leusden,290726.0
+1995,Lopik,107537.0
+1996,Lopik,122929.0
+1997,Lopik,132147.0
+1998,Lopik,148736.0
+1999,Lopik,176913.0
+2000,Lopik,191173.0
+2001,Lopik,203875.0
+2002,Lopik,220293.0
+2003,Lopik,262504.0
+2004,Lopik,246932.0
+2005,Lopik,267610.0
+2006,Lopik,279307.0
+2007,Lopik,272461.0
+2008,Lopik,298172.0
+2009,Lopik,285121.0
+2010,Lopik,274253.0
+2011,Lopik,299039.0
+2012,Lopik,265807.0
+2013,Lopik,242431.0
+2014,Lopik,234429.0
+2015,Lopik,237263.0
+2016,Lopik,247645.0
+2017,Lopik,283807.0
+1995,Montfoort,114768.0
+1996,Montfoort,118308.0
+1997,Montfoort,130420.0
+1998,Montfoort,155343.0
+1999,Montfoort,181792.0
+2000,Montfoort,202799.0
+2001,Montfoort,214511.0
+2002,Montfoort,230328.0
+2003,Montfoort,238200.0
+2004,Montfoort,240084.0
+2005,Montfoort,245774.0
+2006,Montfoort,267548.0
+2007,Montfoort,284055.0
+2008,Montfoort,315114.0
+2009,Montfoort,279492.0
+2010,Montfoort,281350.0
+2011,Montfoort,292246.0
+2012,Montfoort,262523.0
+2013,Montfoort,258118.0
+2014,Montfoort,231091.0
+2015,Montfoort,254345.0
+2016,Montfoort,279138.0
+2017,Montfoort,292751.0
+1995,Nieuwegein,97345.0
+1996,Nieuwegein,100086.0
+1997,Nieuwegein,118669.0
+1998,Nieuwegein,131229.0
+1999,Nieuwegein,155860.0
+2000,Nieuwegein,172773.0
+2001,Nieuwegein,182683.0
+2002,Nieuwegein,187202.0
+2003,Nieuwegein,198054.0
+2004,Nieuwegein,199758.0
+2005,Nieuwegein,206301.0
+2006,Nieuwegein,214311.0
+2007,Nieuwegein,225475.0
+2008,Nieuwegein,231134.0
+2009,Nieuwegein,223460.0
+2010,Nieuwegein,212121.0
+2011,Nieuwegein,204924.0
+2012,Nieuwegein,196565.0
+2013,Nieuwegein,179956.0
+2014,Nieuwegein,189160.0
+2015,Nieuwegein,190917.0
+2016,Nieuwegein,212302.0
+2017,Nieuwegein,241070.0
+1995,Oudewater,93551.0
+1996,Oudewater,121360.0
+1997,Oudewater,137794.0
+1998,Oudewater,147660.0
+1999,Oudewater,174368.0
+2000,Oudewater,179847.0
+2001,Oudewater,207125.0
+2002,Oudewater,275548.0
+2003,Oudewater,253796.0
+2004,Oudewater,269721.0
+2005,Oudewater,267180.0
+2006,Oudewater,311506.0
+2007,Oudewater,286884.0
+2008,Oudewater,351215.0
+2009,Oudewater,315022.0
+2010,Oudewater,273053.0
+2011,Oudewater,303497.0
+2012,Oudewater,287163.0
+2013,Oudewater,265580.0
+2014,Oudewater,257414.0
+2015,Oudewater,287275.0
+2016,Oudewater,285535.0
+2017,Oudewater,293983.0
+1995,Renswoude,111101.0
+1996,Renswoude,127711.0
+1997,Renswoude,176908.0
+1998,Renswoude,169876.0
+1999,Renswoude,228765.0
+2000,Renswoude,220625.0
+2001,Renswoude,230781.0
+2002,Renswoude,266528.0
+2003,Renswoude,260113.0
+2004,Renswoude,257609.0
+2005,Renswoude,289497.0
+2006,Renswoude,297229.0
+2007,Renswoude,335516.0
+2008,Renswoude,307911.0
+2009,Renswoude,325088.0
+2010,Renswoude,309775.0
+2011,Renswoude,289911.0
+2012,Renswoude,297340.0
+2013,Renswoude,268725.0
+2014,Renswoude,248479.0
+2015,Renswoude,261922.0
+2016,Renswoude,253922.0
+2017,Renswoude,317455.0
+1995,Rhenen,117869.0
+1996,Rhenen,128740.0
+1997,Rhenen,135328.0
+1998,Rhenen,157444.0
+1999,Rhenen,180743.0
+2000,Rhenen,229638.0
+2001,Rhenen,246967.0
+2002,Rhenen,280576.0
+2003,Rhenen,291399.0
+2004,Rhenen,270889.0
+2005,Rhenen,286265.0
+2006,Rhenen,291038.0
+2007,Rhenen,341705.0
+2008,Rhenen,292807.0
+2009,Rhenen,302873.0
+2010,Rhenen,280084.0
+2011,Rhenen,278831.0
+2012,Rhenen,266759.0
+2013,Rhenen,250157.0
+2014,Rhenen,252597.0
+2015,Rhenen,277472.0
+2016,Rhenen,283677.0
+2017,Rhenen,303161.0
+1995,De Ronde Venen,128337.0
+1996,De Ronde Venen,138551.0
+1997,De Ronde Venen,145768.0
+1998,De Ronde Venen,174772.0
+1999,De Ronde Venen,188053.0
+2000,De Ronde Venen,230603.0
+2001,De Ronde Venen,264300.0
+2002,De Ronde Venen,286883.0
+2003,De Ronde Venen,273359.0
+2004,De Ronde Venen,267510.0
+2005,De Ronde Venen,301512.0
+2006,De Ronde Venen,291679.0
+2007,De Ronde Venen,329441.0
+2008,De Ronde Venen,330902.0
+2009,De Ronde Venen,324658.0
+2010,De Ronde Venen,311344.0
+2011,De Ronde Venen,340511.0
+2012,De Ronde Venen,300158.0
+2013,De Ronde Venen,293780.0
+2014,De Ronde Venen,286056.0
+2015,De Ronde Venen,306421.0
+2016,De Ronde Venen,340835.0
+2017,De Ronde Venen,359267.0
+1995,Soest,128675.0
+1996,Soest,123156.0
+1997,Soest,146825.0
+1998,Soest,167508.0
+1999,Soest,197579.0
+2000,Soest,268253.0
+2001,Soest,257116.0
+2002,Soest,250853.0
+2003,Soest,268102.0
+2004,Soest,277530.0
+2005,Soest,291926.0
+2006,Soest,320868.0
+2007,Soest,341717.0
+2008,Soest,332416.0
+2009,Soest,318418.0
+2010,Soest,320359.0
+2011,Soest,313700.0
+2012,Soest,315025.0
+2013,Soest,288832.0
+2014,Soest,274337.0
+2015,Soest,289285.0
+2016,Soest,305207.0
+2017,Soest,339565.0
+1995,Utrecht (municipality),85568.0
+1996,Utrecht (municipality),96925.0
+1997,Utrecht (municipality),109688.0
+1998,Utrecht (municipality),122563.0
+1999,Utrecht (municipality),148101.0
+2000,Utrecht (municipality),165717.0
+2001,Utrecht (municipality),183806.0
+2002,Utrecht (municipality),187545.0
+2003,Utrecht (municipality),197054.0
+2004,Utrecht (municipality),208120.0
+2005,Utrecht (municipality),219305.0
+2006,Utrecht (municipality),230815.0
+2007,Utrecht (municipality),248002.0
+2008,Utrecht (municipality),267507.0
+2009,Utrecht (municipality),252284.0
+2010,Utrecht (municipality),252064.0
+2011,Utrecht (municipality),255878.0
+2012,Utrecht (municipality),246061.0
+2013,Utrecht (municipality),231691.0
+2014,Utrecht (municipality),238446.0
+2015,Utrecht (municipality),245900.0
+2016,Utrecht (municipality),267618.0
+2017,Utrecht (municipality),307737.0
+1995,Veenendaal,93338.0
+1996,Veenendaal,107294.0
+1997,Veenendaal,115675.0
+1998,Veenendaal,139593.0
+1999,Veenendaal,164450.0
+2000,Veenendaal,191639.0
+2001,Veenendaal,200865.0
+2002,Veenendaal,219802.0
+2003,Veenendaal,220898.0
+2004,Veenendaal,226814.0
+2005,Veenendaal,230847.0
+2006,Veenendaal,246439.0
+2007,Veenendaal,262853.0
+2008,Veenendaal,271216.0
+2009,Veenendaal,240991.0
+2010,Veenendaal,233998.0
+2011,Veenendaal,241595.0
+2012,Veenendaal,235783.0
+2013,Veenendaal,207178.0
+2014,Veenendaal,215747.0
+2015,Veenendaal,217566.0
+2016,Veenendaal,228195.0
+2017,Veenendaal,249434.0
+1995,Vianen,106136.0
+1996,Vianen,118722.0
+1997,Vianen,129038.0
+1998,Vianen,132033.0
+1999,Vianen,160180.0
+2000,Vianen,210763.0
+2001,Vianen,210138.0
+2002,Vianen,212393.0
+2003,Vianen,220000.0
+2004,Vianen,235847.0
+2005,Vianen,230483.0
+2006,Vianen,257373.0
+2007,Vianen,270566.0
+2008,Vianen,272172.0
+2009,Vianen,258369.0
+2010,Vianen,253192.0
+2011,Vianen,270021.0
+2012,Vianen,263571.0
+2013,Vianen,222626.0
+2014,Vianen,242147.0
+2015,Vianen,237252.0
+2016,Vianen,255326.0
+2017,Vianen,271477.0
+1995,Wijk bij Duurstede,108392.0
+1996,Wijk bij Duurstede,120042.0
+1997,Wijk bij Duurstede,145094.0
+1998,Wijk bij Duurstede,148658.0
+1999,Wijk bij Duurstede,187713.0
+2000,Wijk bij Duurstede,198739.0
+2001,Wijk bij Duurstede,222970.0
+2002,Wijk bij Duurstede,236813.0
+2003,Wijk bij Duurstede,235968.0
+2004,Wijk bij Duurstede,254589.0
+2005,Wijk bij Duurstede,274008.0
+2006,Wijk bij Duurstede,314931.0
+2007,Wijk bij Duurstede,312478.0
+2008,Wijk bij Duurstede,308127.0
+2009,Wijk bij Duurstede,306249.0
+2010,Wijk bij Duurstede,290520.0
+2011,Wijk bij Duurstede,294224.0
+2012,Wijk bij Duurstede,262387.0
+2013,Wijk bij Duurstede,236952.0
+2014,Wijk bij Duurstede,247970.0
+2015,Wijk bij Duurstede,248260.0
+2016,Wijk bij Duurstede,271905.0
+2017,Wijk bij Duurstede,300170.0
+1995,Woerden,99388.0
+1996,Woerden,109157.0
+1997,Woerden,136335.0
+1998,Woerden,126753.0
+1999,Woerden,126595.0
+2000,Woerden,180525.0
+2001,Woerden,225603.0
+2002,Woerden,224573.0
+2003,Woerden,235273.0
+2004,Woerden,257734.0
+2005,Woerden,269703.0
+2006,Woerden,257553.0
+2007,Woerden,263336.0
+2008,Woerden,282095.0
+2009,Woerden,287381.0
+2010,Woerden,292563.0
+2011,Woerden,279764.0
+2012,Woerden,257116.0
+2013,Woerden,251731.0
+2014,Woerden,254709.0
+2015,Woerden,252950.0
+2016,Woerden,278518.0
+2017,Woerden,316915.0
+1995,Woudenberg,111571.0
+1996,Woudenberg,136796.0
+1997,Woudenberg,148642.0
+1998,Woudenberg,170002.0
+1999,Woudenberg,186990.0
+2000,Woudenberg,206934.0
+2001,Woudenberg,226734.0
+2002,Woudenberg,208134.0
+2003,Woudenberg,240499.0
+2004,Woudenberg,277872.0
+2005,Woudenberg,263522.0
+2006,Woudenberg,301213.0
+2007,Woudenberg,310265.0
+2008,Woudenberg,326967.0
+2009,Woudenberg,296308.0
+2010,Woudenberg,306700.0
+2011,Woudenberg,252979.0
+2012,Woudenberg,245310.0
+2013,Woudenberg,234672.0
+2014,Woudenberg,243873.0
+2015,Woudenberg,257248.0
+2016,Woudenberg,269051.0
+2017,Woudenberg,304650.0
+1995,Zeist,147495.0
+1996,Zeist,156692.0
+1997,Zeist,184990.0
+1998,Zeist,207481.0
+1999,Zeist,258154.0
+2000,Zeist,317815.0
+2001,Zeist,307869.0
+2002,Zeist,330788.0
+2003,Zeist,320771.0
+2004,Zeist,352749.0
+2005,Zeist,345292.0
+2006,Zeist,385044.0
+2007,Zeist,422102.0
+2008,Zeist,451935.0
+2009,Zeist,355528.0
+2010,Zeist,392455.0
+2011,Zeist,383337.0
+2012,Zeist,337849.0
+2013,Zeist,325655.0
+2014,Zeist,324545.0
+2015,Zeist,353771.0
+2016,Zeist,353254.0
+2017,Zeist,393001.0

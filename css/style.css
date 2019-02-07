@@ -1,0 +1,93 @@
+.main-content{
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 12px;
+}
+
+.map{
+    display: inline-block;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#timeline{
+    width: 920px;
+    margin: 0 auto;
+}
+.time-series{
+    width:40px;
+    background: #eee;
+    margin:0;
+    padding:0;
+    text-align:center;
+    line-height: 30px;
+    float: left;
+}
+
+.active{
+    background: #b4b4b4;
+    color:white;
+}
+
+.label{
+    font-weight: bold;
+    text-anchor: middle;
+    cursor:default;
+}
+
+
+div.tooltip{
+    position: absolute;
+    text-align: center;
+    padding: 4px;
+    background: #fff;
+    border: 0px;
+    pointer-events: none;
+}
+
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+/* for each range class a color based on colorbrewer */
+    .q0-5 { fill:#1a9850; }
+    .q1-5 { fill:#a6d96a; }
+    .q2-5 { fill:#ffffbf; }
+    .q3-5 { fill:#fdae61; }
+    .q4-5 { fill:#d73027; }
+
+    .selected{
+    	fill:steelblue;
+    }
+
+.line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1.5px;
+}

@@ -1,0 +1,576 @@
+Periods,Region,Price
+1995,Beek (L.),92607.0
+1996,Beek (L.),105391.0
+1997,Beek (L.),120811.0
+1998,Beek (L.),125891.0
+1999,Beek (L.),153270.0
+2000,Beek (L.),161134.0
+2001,Beek (L.),165641.0
+2002,Beek (L.),164110.0
+2003,Beek (L.),184807.0
+2004,Beek (L.),183769.0
+2005,Beek (L.),185888.0
+2006,Beek (L.),194649.0
+2007,Beek (L.),213428.0
+2008,Beek (L.),202607.0
+2009,Beek (L.),188678.0
+2010,Beek (L.),181157.0
+2011,Beek (L.),189860.0
+2012,Beek (L.),185433.0
+2013,Beek (L.),176182.0
+2014,Beek (L.),185729.0
+2015,Beek (L.),187159.0
+2016,Beek (L.),207205.0
+2017,Beek (L.),195019.0
+1995,Beesel,93275.0
+1996,Beesel,104343.0
+1997,Beesel,102795.0
+1998,Beesel,120309.0
+1999,Beesel,135072.0
+2000,Beesel,154327.0
+2001,Beesel,163815.0
+2002,Beesel,156247.0
+2003,Beesel,180427.0
+2004,Beesel,205644.0
+2005,Beesel,204479.0
+2006,Beesel,204799.0
+2007,Beesel,217854.0
+2008,Beesel,213018.0
+2009,Beesel,190880.0
+2010,Beesel,187712.0
+2011,Beesel,209554.0
+2012,Beesel,213846.0
+2013,Beesel,195273.0
+2014,Beesel,189929.0
+2015,Beesel,198705.0
+2016,Beesel,196107.0
+2017,Beesel,221375.0
+1995,Bergen (L.),96960.0
+1996,Bergen (L.),106392.0
+1997,Bergen (L.),114319.0
+1998,Bergen (L.),139256.0
+1999,Bergen (L.),155179.0
+2000,Bergen (L.),199084.0
+2001,Bergen (L.),178302.0
+2002,Bergen (L.),196084.0
+2003,Bergen (L.),186870.0
+2004,Bergen (L.),209835.0
+2005,Bergen (L.),228350.0
+2006,Bergen (L.),246969.0
+2007,Bergen (L.),238177.0
+2008,Bergen (L.),259422.0
+2009,Bergen (L.),230157.0
+2010,Bergen (L.),205668.0
+2011,Bergen (L.),205709.0
+2012,Bergen (L.),220671.0
+2013,Bergen (L.),175089.0
+2014,Bergen (L.),188050.0
+2015,Bergen (L.),188826.0
+2016,Bergen (L.),213867.0
+2017,Bergen (L.),221542.0
+1995,Brunssum,74695.0
+1996,Brunssum,84034.0
+1997,Brunssum,93215.0
+1998,Brunssum,80852.0
+1999,Brunssum,120394.0
+2000,Brunssum,135111.0
+2001,Brunssum,136424.0
+2002,Brunssum,148031.0
+2003,Brunssum,129840.0
+2004,Brunssum,143360.0
+2005,Brunssum,148063.0
+2006,Brunssum,159490.0
+2007,Brunssum,153075.0
+2008,Brunssum,156717.0
+2009,Brunssum,154040.0
+2010,Brunssum,140607.0
+2011,Brunssum,146524.0
+2012,Brunssum,146857.0
+2013,Brunssum,129739.0
+2014,Brunssum,135537.0
+2015,Brunssum,148880.0
+2016,Brunssum,149486.0
+2017,Brunssum,156069.0
+1995,Gennep,99812.0
+1996,Gennep,112494.0
+1997,Gennep,131398.0
+1998,Gennep,154616.0
+1999,Gennep,160541.0
+2000,Gennep,176163.0
+2001,Gennep,222197.0
+2002,Gennep,193080.0
+2003,Gennep,231089.0
+2004,Gennep,224265.0
+2005,Gennep,233217.0
+2006,Gennep,239692.0
+2007,Gennep,247171.0
+2008,Gennep,261961.0
+2009,Gennep,268362.0
+2010,Gennep,227177.0
+2011,Gennep,228314.0
+2012,Gennep,222468.0
+2013,Gennep,191687.0
+2014,Gennep,207167.0
+2015,Gennep,202459.0
+2016,Gennep,209471.0
+2017,Gennep,246870.0
+1995,Heerlen,79269.0
+1996,Heerlen,84871.0
+1997,Heerlen,91170.0
+1998,Heerlen,96015.0
+1999,Heerlen,110819.0
+2000,Heerlen,125627.0
+2001,Heerlen,129077.0
+2002,Heerlen,132531.0
+2003,Heerlen,138594.0
+2004,Heerlen,138254.0
+2005,Heerlen,142184.0
+2006,Heerlen,151749.0
+2007,Heerlen,152629.0
+2008,Heerlen,154325.0
+2009,Heerlen,152164.0
+2010,Heerlen,143523.0
+2011,Heerlen,148649.0
+2012,Heerlen,138848.0
+2013,Heerlen,132376.0
+2014,Heerlen,140735.0
+2015,Heerlen,144517.0
+2016,Heerlen,152276.0
+2017,Heerlen,150459.0
+1995,Kerkrade,85999.0
+1996,Kerkrade,91476.0
+1997,Kerkrade,94666.0
+1998,Kerkrade,98477.0
+1999,Kerkrade,110922.0
+2000,Kerkrade,129601.0
+2001,Kerkrade,124263.0
+2002,Kerkrade,124813.0
+2003,Kerkrade,132238.0
+2004,Kerkrade,133140.0
+2005,Kerkrade,131913.0
+2006,Kerkrade,147406.0
+2007,Kerkrade,151591.0
+2008,Kerkrade,153858.0
+2009,Kerkrade,147565.0
+2010,Kerkrade,146410.0
+2011,Kerkrade,138273.0
+2012,Kerkrade,136112.0
+2013,Kerkrade,126057.0
+2014,Kerkrade,130680.0
+2015,Kerkrade,143898.0
+2016,Kerkrade,145428.0
+2017,Kerkrade,159034.0
+1995,Landgraaf,89040.0
+1996,Landgraaf,98642.0
+1997,Landgraaf,109223.0
+1998,Landgraaf,116649.0
+1999,Landgraaf,125073.0
+2000,Landgraaf,144064.0
+2001,Landgraaf,147440.0
+2002,Landgraaf,151737.0
+2003,Landgraaf,158616.0
+2004,Landgraaf,164110.0
+2005,Landgraaf,164228.0
+2006,Landgraaf,171895.0
+2007,Landgraaf,176484.0
+2008,Landgraaf,180821.0
+2009,Landgraaf,162740.0
+2010,Landgraaf,174867.0
+2011,Landgraaf,168068.0
+2012,Landgraaf,161858.0
+2013,Landgraaf,138299.0
+2014,Landgraaf,156878.0
+2015,Landgraaf,166851.0
+2016,Landgraaf,175165.0
+2017,Landgraaf,187701.0
+1995,Maastricht,96899.0
+1996,Maastricht,106693.0
+1997,Maastricht,111641.0
+1998,Maastricht,131578.0
+1999,Maastricht,146695.0
+2000,Maastricht,162594.0
+2001,Maastricht,178608.0
+2002,Maastricht,196073.0
+2003,Maastricht,197653.0
+2004,Maastricht,200018.0
+2005,Maastricht,210951.0
+2006,Maastricht,223176.0
+2007,Maastricht,230137.0
+2008,Maastricht,231883.0
+2009,Maastricht,227686.0
+2010,Maastricht,222775.0
+2011,Maastricht,222066.0
+2012,Maastricht,214174.0
+2013,Maastricht,206639.0
+2014,Maastricht,211753.0
+2015,Maastricht,221578.0
+2016,Maastricht,223194.0
+2017,Maastricht,240627.0
+1995,Meerssen,121818.0
+1996,Meerssen,128861.0
+1997,Meerssen,145334.0
+1998,Meerssen,145754.0
+1999,Meerssen,186922.0
+2000,Meerssen,189982.0
+2001,Meerssen,202887.0
+2002,Meerssen,219634.0
+2003,Meerssen,234781.0
+2004,Meerssen,233085.0
+2005,Meerssen,257599.0
+2006,Meerssen,259898.0
+2007,Meerssen,261145.0
+2008,Meerssen,280043.0
+2009,Meerssen,258715.0
+2010,Meerssen,249708.0
+2011,Meerssen,247709.0
+2012,Meerssen,220235.0
+2013,Meerssen,220514.0
+2014,Meerssen,221407.0
+2015,Meerssen,223017.0
+2016,Meerssen,243709.0
+2017,Meerssen,270447.0
+1995,Mook en Middelaar,122668.0
+1996,Mook en Middelaar,142957.0
+1997,Mook en Middelaar,147937.0
+1998,Mook en Middelaar,172478.0
+1999,Mook en Middelaar,207556.0
+2000,Mook en Middelaar,177826.0
+2001,Mook en Middelaar,256215.0
+2002,Mook en Middelaar,270771.0
+2003,Mook en Middelaar,254106.0
+2004,Mook en Middelaar,270952.0
+2005,Mook en Middelaar,278892.0
+2006,Mook en Middelaar,305997.0
+2007,Mook en Middelaar,334005.0
+2008,Mook en Middelaar,323623.0
+2009,Mook en Middelaar,351195.0
+2010,Mook en Middelaar,273056.0
+2011,Mook en Middelaar,286058.0
+2012,Mook en Middelaar,313607.0
+2013,Mook en Middelaar,225436.0
+2014,Mook en Middelaar,250585.0
+2015,Mook en Middelaar,298437.0
+2016,Mook en Middelaar,269317.0
+2017,Mook en Middelaar,311447.0
+1995,Nederweert,107773.0
+1996,Nederweert,115851.0
+1997,Nederweert,133468.0
+1998,Nederweert,152969.0
+1999,Nederweert,176475.0
+2000,Nederweert,205679.0
+2001,Nederweert,229996.0
+2002,Nederweert,231299.0
+2003,Nederweert,235521.0
+2004,Nederweert,249770.0
+2005,Nederweert,245513.0
+2006,Nederweert,251756.0
+2007,Nederweert,258133.0
+2008,Nederweert,280808.0
+2009,Nederweert,235363.0
+2010,Nederweert,247408.0
+2011,Nederweert,250196.0
+2012,Nederweert,210649.0
+2013,Nederweert,222741.0
+2014,Nederweert,225930.0
+2015,Nederweert,233255.0
+2016,Nederweert,245425.0
+2017,Nederweert,255688.0
+1995,Nuth,112939.0
+1996,Nuth,103918.0
+1997,Nuth,133514.0
+1998,Nuth,137374.0
+1999,Nuth,161371.0
+2000,Nuth,167535.0
+2001,Nuth,187432.0
+2002,Nuth,189581.0
+2003,Nuth,199001.0
+2004,Nuth,201610.0
+2005,Nuth,203532.0
+2006,Nuth,219899.0
+2007,Nuth,219245.0
+2008,Nuth,211644.0
+2009,Nuth,212715.0
+2010,Nuth,218527.0
+2011,Nuth,209017.0
+2012,Nuth,200836.0
+2013,Nuth,173827.0
+2014,Nuth,180917.0
+2015,Nuth,186710.0
+2016,Nuth,201424.0
+2017,Nuth,224598.0
+1995,Onderbanken,88037.0
+1996,Onderbanken,99090.0
+1997,Onderbanken,113069.0
+1998,Onderbanken,130075.0
+1999,Onderbanken,144338.0
+2000,Onderbanken,157753.0
+2001,Onderbanken,149721.0
+2002,Onderbanken,174040.0
+2003,Onderbanken,151991.0
+2004,Onderbanken,175769.0
+2005,Onderbanken,181607.0
+2006,Onderbanken,186405.0
+2007,Onderbanken,188379.0
+2008,Onderbanken,207266.0
+2009,Onderbanken,177453.0
+2010,Onderbanken,176183.0
+2011,Onderbanken,180201.0
+2012,Onderbanken,177922.0
+2013,Onderbanken,155398.0
+2014,Onderbanken,188246.0
+2015,Onderbanken,161945.0
+2016,Onderbanken,182802.0
+2017,Onderbanken,217879.0
+1995,Roerdalen,103422.0
+1996,Roerdalen,111300.0
+1997,Roerdalen,134230.0
+1998,Roerdalen,135579.0
+1999,Roerdalen,165406.0
+2000,Roerdalen,184821.0
+2001,Roerdalen,180138.0
+2002,Roerdalen,193210.0
+2003,Roerdalen,187508.0
+2004,Roerdalen,187599.0
+2005,Roerdalen,203672.0
+2006,Roerdalen,209430.0
+2007,Roerdalen,222012.0
+2008,Roerdalen,207108.0
+2009,Roerdalen,188542.0
+2010,Roerdalen,191464.0
+2011,Roerdalen,198777.0
+2012,Roerdalen,197977.0
+2013,Roerdalen,178534.0
+2014,Roerdalen,185870.0
+2015,Roerdalen,186628.0
+2016,Roerdalen,191752.0
+2017,Roerdalen,202514.0
+1995,Roermond,85792.0
+1996,Roermond,99724.0
+1997,Roermond,106993.0
+1998,Roermond,114924.0
+1999,Roermond,126213.0
+2000,Roermond,144971.0
+2001,Roermond,164683.0
+2002,Roermond,170674.0
+2003,Roermond,170577.0
+2004,Roermond,171804.0
+2005,Roermond,192044.0
+2006,Roermond,190946.0
+2007,Roermond,201508.0
+2008,Roermond,203475.0
+2009,Roermond,190646.0
+2010,Roermond,200608.0
+2011,Roermond,191895.0
+2012,Roermond,187001.0
+2013,Roermond,183151.0
+2014,Roermond,192318.0
+2015,Roermond,194640.0
+2016,Roermond,203499.0
+2017,Roermond,225102.0
+1995,Schinnen,94968.0
+1996,Schinnen,115773.0
+1997,Schinnen,118161.0
+1998,Schinnen,133249.0
+1999,Schinnen,156234.0
+2000,Schinnen,184269.0
+2001,Schinnen,179485.0
+2002,Schinnen,192976.0
+2003,Schinnen,205880.0
+2004,Schinnen,198524.0
+2005,Schinnen,200363.0
+2006,Schinnen,217525.0
+2007,Schinnen,237519.0
+2008,Schinnen,222300.0
+2009,Schinnen,190616.0
+2010,Schinnen,194860.0
+2011,Schinnen,223273.0
+2012,Schinnen,198633.0
+2013,Schinnen,179861.0
+2014,Schinnen,183822.0
+2015,Schinnen,193747.0
+2016,Schinnen,197924.0
+2017,Schinnen,219053.0
+1995,Simpelveld,101064.0
+1996,Simpelveld,102122.0
+1997,Simpelveld,105496.0
+1998,Simpelveld,117237.0
+1999,Simpelveld,146242.0
+2000,Simpelveld,162963.0
+2001,Simpelveld,176821.0
+2002,Simpelveld,172876.0
+2003,Simpelveld,165464.0
+2004,Simpelveld,180940.0
+2005,Simpelveld,190564.0
+2006,Simpelveld,199936.0
+2007,Simpelveld,184730.0
+2008,Simpelveld,200269.0
+2009,Simpelveld,183341.0
+2010,Simpelveld,175806.0
+2011,Simpelveld,174063.0
+2012,Simpelveld,166919.0
+2013,Simpelveld,165092.0
+2014,Simpelveld,181352.0
+2015,Simpelveld,162787.0
+2016,Simpelveld,181859.0
+2017,Simpelveld,199324.0
+1995,Stein (L.),94920.0
+1996,Stein (L.),104845.0
+1997,Stein (L.),120493.0
+1998,Stein (L.),123195.0
+1999,Stein (L.),140682.0
+2000,Stein (L.),158836.0
+2001,Stein (L.),168204.0
+2002,Stein (L.),171909.0
+2003,Stein (L.),175702.0
+2004,Stein (L.),175944.0
+2005,Stein (L.),179702.0
+2006,Stein (L.),203307.0
+2007,Stein (L.),190621.0
+2008,Stein (L.),197235.0
+2009,Stein (L.),173418.0
+2010,Stein (L.),179492.0
+2011,Stein (L.),176899.0
+2012,Stein (L.),168614.0
+2013,Stein (L.),168815.0
+2014,Stein (L.),175535.0
+2015,Stein (L.),172945.0
+2016,Stein (L.),191205.0
+2017,Stein (L.),206656.0
+1995,Vaals,104992.0
+1996,Vaals,108917.0
+1997,Vaals,108890.0
+1998,Vaals,132849.0
+1999,Vaals,119652.0
+2000,Vaals,140534.0
+2001,Vaals,144162.0
+2002,Vaals,144776.0
+2003,Vaals,132877.0
+2004,Vaals,155329.0
+2005,Vaals,175999.0
+2006,Vaals,177850.0
+2007,Vaals,187052.0
+2008,Vaals,191999.0
+2009,Vaals,184449.0
+2010,Vaals,179613.0
+2011,Vaals,193451.0
+2012,Vaals,182002.0
+2013,Vaals,161997.0
+2014,Vaals,191801.0
+2015,Vaals,200181.0
+2016,Vaals,189124.0
+2017,Vaals,193381.0
+1995,Valkenburg aan de Geul,107956.0
+1996,Valkenburg aan de Geul,118488.0
+1997,Valkenburg aan de Geul,144711.0
+1998,Valkenburg aan de Geul,139396.0
+1999,Valkenburg aan de Geul,172325.0
+2000,Valkenburg aan de Geul,195642.0
+2001,Valkenburg aan de Geul,193270.0
+2002,Valkenburg aan de Geul,227447.0
+2003,Valkenburg aan de Geul,210281.0
+2004,Valkenburg aan de Geul,215464.0
+2005,Valkenburg aan de Geul,230702.0
+2006,Valkenburg aan de Geul,243275.0
+2007,Valkenburg aan de Geul,241422.0
+2008,Valkenburg aan de Geul,243937.0
+2009,Valkenburg aan de Geul,234312.0
+2010,Valkenburg aan de Geul,231493.0
+2011,Valkenburg aan de Geul,246287.0
+2012,Valkenburg aan de Geul,216724.0
+2013,Valkenburg aan de Geul,205539.0
+2014,Valkenburg aan de Geul,219926.0
+2015,Valkenburg aan de Geul,213153.0
+2016,Valkenburg aan de Geul,243077.0
+2017,Valkenburg aan de Geul,252750.0
+1995,Venlo,90891.0
+1996,Venlo,94182.0
+1997,Venlo,103551.0
+1998,Venlo,111961.0
+1999,Venlo,119490.0
+2000,Venlo,128838.0
+2001,Venlo,142242.0
+2002,Venlo,145239.0
+2003,Venlo,154219.0
+2004,Venlo,164991.0
+2005,Venlo,170431.0
+2006,Venlo,181526.0
+2007,Venlo,190461.0
+2008,Venlo,184089.0
+2009,Venlo,186716.0
+2010,Venlo,177199.0
+2011,Venlo,185997.0
+2012,Venlo,175299.0
+2013,Venlo,161826.0
+2014,Venlo,176685.0
+2015,Venlo,178519.0
+2016,Venlo,191062.0
+2017,Venlo,203397.0
+1995,Venray,96408.0
+1996,Venray,105336.0
+1997,Venray,110745.0
+1998,Venray,124921.0
+1999,Venray,153213.0
+2000,Venray,169831.0
+2001,Venray,180306.0
+2002,Venray,207671.0
+2003,Venray,204034.0
+2004,Venray,209091.0
+2005,Venray,216187.0
+2006,Venray,236637.0
+2007,Venray,245635.0
+2008,Venray,240955.0
+2009,Venray,222968.0
+2010,Venray,217503.0
+2011,Venray,217656.0
+2012,Venray,215171.0
+2013,Venray,207048.0
+2014,Venray,203279.0
+2015,Venray,219601.0
+2016,Venray,214737.0
+2017,Venray,230745.0
+1995,Voerendaal,110579.0
+1996,Voerendaal,128612.0
+1997,Voerendaal,129769.0
+1998,Voerendaal,142382.0
+1999,Voerendaal,141535.0
+2000,Voerendaal,174185.0
+2001,Voerendaal,187804.0
+2002,Voerendaal,200451.0
+2003,Voerendaal,215113.0
+2004,Voerendaal,208431.0
+2005,Voerendaal,239631.0
+2006,Voerendaal,245111.0
+2007,Voerendaal,232275.0
+2008,Voerendaal,246550.0
+2009,Voerendaal,235454.0
+2010,Voerendaal,210666.0
+2011,Voerendaal,234846.0
+2012,Voerendaal,206066.0
+2013,Voerendaal,205831.0
+2014,Voerendaal,212139.0
+2015,Voerendaal,210481.0
+2016,Voerendaal,233245.0
+2017,Voerendaal,255532.0
+1995,Weert,96925.0
+1996,Weert,108957.0
+1997,Weert,129603.0
+1998,Weert,133322.0
+1999,Weert,157027.0
+2000,Weert,182852.0
+2001,Weert,189305.0
+2002,Weert,201521.0
+2003,Weert,207065.0
+2004,Weert,196208.0
+2005,Weert,221940.0
+2006,Weert,225927.0
+2007,Weert,232765.0
+2008,Weert,232033.0
+2009,Weert,210864.0
+2010,Weert,217371.0
+2011,Weert,220522.0
+2012,Weert,215041.0
+2013,Weert,206252.0
+2014,Weert,199928.0
+2015,Weert,217850.0
+2016,Weert,215075.0
+2017,Weert,232307.0
